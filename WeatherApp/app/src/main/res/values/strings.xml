@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="logo">Welcome to WeatherApp!</string>
+    <string name="hint_user_input">Tampere</string>
+    <string name="button">Click to check the weather</string>
+
+</resources>
