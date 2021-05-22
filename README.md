@@ -11,5 +11,11 @@ Features are available at the moment:
 ## Project members
 - Viktoriia Pavlova
 
+
+### Screencast 
+Screencast with description of the application is available in the folder: https://github.com/ViktoriiaViktoriia/mobile_app_final_project/blob/main/WeatherApp/app/2021-05-14%20at%2023-35-01.mp4
+or in dropbox: https://www.dropbox.com/sh/66i39b1u7v4gmso/AAB5WzI8BLEszn0WtWYK1dyCa?dl=0
+
+
 ### version '1.0.0' (2021-05-14)
 //release 2
