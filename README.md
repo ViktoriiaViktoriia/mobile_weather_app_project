@@ -1,4 +1,4 @@
-# mobile_app_final_project
+# mobile_weather_app_project
 Weather App
 
 ## Short description
@@ -9,7 +9,7 @@ Features are available at the moment:
 - User is able to use both landscape and portrait UI mode
 
 ## Project members
-- Viktoriia Pavlova
+- Viktoriia Sakomaa
 
 
 ### Screencast 
